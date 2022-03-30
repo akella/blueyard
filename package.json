@@ -1,0 +1,13 @@
+{
+  "dependencies": {
+    "@parcel/config-default": "^2.4.0",
+    "canvas-sketch-util": "^1.10.0",
+    "gsap": "^3.9.1",
+    "lil-gui": "^0.16.1",
+    "simple-input-events": "^2.0.0",
+    "three": "^0.138.3"
+  },
+  "devDependencies": {
+    "@parcel/transformer-glsl": "^2.4.0"
+  }
+}
